@@ -72,3 +72,15 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+POVJustJoinGamePlus/Intermediate/Config/CoalescedSourceConfigs/Editor.ini
+POVJustJoinGamePlus/Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+POVJustJoinGamePlus/Intermediate/Config/CoalescedSourceConfigs/Lightmass.ini
+POVJustJoinGamePlus/Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+POVJustJoinGamePlus/Saved/Logs/POVJustJoinGamePlus-backup-2022.10.22-02.08.59.log
+POVJustJoinGamePlus/Saved/Logs/POVJustJoinGamePlus.log
+POVJustJoinGamePlus/Saved/Logs/POVJustJoinGamePlus.log
+*.log
+*.ini
+*.log
+*.json
+*.ini
