@@ -84,3 +84,11 @@ POVJustJoinGamePlus/Saved/Logs/POVJustJoinGamePlus.log
 *.log
 *.json
 *.ini
+*.log
+*.ini
+*.json
+*.bin
+POVJustJoinGamePlus/Intermediate/CachedAssetRegistry.bin
+POVJustJoinGamePlus/Saved/Autosaves/PackageRestoreData.json
+POVJustJoinGamePlus/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+POVJustJoinGamePlus/Saved/Logs/POVJustJoinGamePlus.log
